@@ -4,12 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[https://www.linkedin.com/in/navitajindalgoel/]
-https://github.com/NavsGo
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[https://www.linkedin.com/in/navitajindalgoel/
+https://github.com/NavsGo]
 
 # Summary
 
@@ -21,7 +17,7 @@ Intensive exposure to Investment banking, transformation projects in top-rated i
 4 years of Management consultancy experience with a startup
 
 
-## Header 2
+## IT experience
 
 > This is a blockquote following a header.
 >
