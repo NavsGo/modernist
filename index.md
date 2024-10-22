@@ -4,15 +4,19 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[https://www.linkedin.com/in/navitajindalgoel/](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Summary
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Masters in Data Science(2025), BE in Computer Science(2004)
+14 years of software industry experience in roles of Software(JAVA) developer, project manager, scrum master, product manager
+Intensive exposure to Investment banking, transformation projects in top-rated investment bank
+4 years of Management consultancy experience with a startup
+
 
 ## Header 2
 
