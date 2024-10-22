@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[https://www.linkedin.com/in/navitajindalgoel/](./another-page.html).
+[https://www.linkedin.com/in/navitajindalgoel/]
+https://github.com/NavsGo
 
 There should be whitespace between paragraphs.
 
