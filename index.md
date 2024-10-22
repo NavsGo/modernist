@@ -4,8 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[https://www.linkedin.com/in/navitajindalgoel/
-https://github.com/NavsGo]
+[![View on GitHub] https://github.com/NavsGo (![LinkedIn]https://www.linkedin.com/in/navitajindalgoel])]
 
 # Summary
 
