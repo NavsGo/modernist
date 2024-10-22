@@ -13,6 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Summary
 
 Masters in Data Science(2025), BE in Computer Science(2004)
+PGDMLAI (Diploma in Machine learning and Artificial Intelligence) from IIIT Banglore
+
 14 years of software industry experience in roles of Software(JAVA) developer, project manager, scrum master, product manager
 Intensive exposure to Investment banking, transformation projects in top-rated investment bank
 4 years of Management consultancy experience with a startup
